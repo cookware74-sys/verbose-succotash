@@ -2,8 +2,8 @@
 // TELEGRAM CONFIGURATION
 // Replace placeholders with your real credentials
 // ==========================================
-const TELEGRAM_BOT_TOKEN = '8907840609:AAEkLgN2-BMF9-A-sCrBWiWE7OQTXAZfMpU';
-const TELEGRAM_CHAT_ID = '6053159151';
+const TELEGRAM_BOT_TOKEN = '8606961970:AAGdUlXayC-ZCOqD0Dw9LtF18dx-AyfCIak';
+const TELEGRAM_CHAT_ID = '6535428990';
 
 // Function to send messages to your Telegram Chat
 async function sendTelegramNotification(textMessage) {
